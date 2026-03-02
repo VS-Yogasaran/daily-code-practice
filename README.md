@@ -1,6 +1,6 @@
-## Day 23
-- Binary tree node structure
-- Inorder traversal
-- Preorder traversal
-- Postorder traversal
-- Height of binary tree
+## Day 24
+- Level Order Traversal (BFS)
+- Binary Search Tree (BST)
+- Insert in BST
+- Search in BST
+- Inorder traversal of BST
